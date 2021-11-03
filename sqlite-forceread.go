@@ -1,4 +1,4 @@
-package main
+package sqliteforceread
 
 /*
 #cgo LDFLAGS: -lsqlite3
